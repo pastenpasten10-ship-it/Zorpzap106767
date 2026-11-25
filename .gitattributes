@@ -10,3 +10,5 @@ wifi_csi.zip.008 filter=lfs diff=lfs merge=lfs -text
 wifi_csi.zip.009 filter=lfs diff=lfs merge=lfs -text
 wifi_csi.zip.040 filter=lfs diff=lfs merge=lfs -text
 wifi_csi.zip.041 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.024 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.025 filter=lfs diff=lfs merge=lfs -text
