@@ -1,1 +1,10 @@
 *.zip.* filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.003 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.006 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.010 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.002 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.004 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.005 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.007 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.008 filter=lfs diff=lfs merge=lfs -text
+wifi_csi.zip.009 filter=lfs diff=lfs merge=lfs -text
